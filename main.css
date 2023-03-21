@@ -245,3 +245,12 @@ input:checked ~ .bubble::after {
     text-decoration: line-through;
     color: var(--grey);
 }
+
+/* Media queries */
+
+@media (max-width: 480px) {
+    .actions {
+        position: relative;
+        left: -3.5rem;
+    }
+}
