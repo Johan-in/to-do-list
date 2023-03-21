@@ -251,6 +251,6 @@ input:checked ~ .bubble::after {
 @media (max-width: 480px) {
     .actions {
         position: relative;
-        left: -3.5rem;
+        left: -2.5rem;
     }
 }
